@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220">
+  <rect width="320" height="220" fill="#E3EEE1"/>
+  <rect x="1" y="1" width="318" height="218" fill="none" stroke="rgba(34,43,37,0.10)" stroke-width="2"/>
+  <text x="24" y="196" font-family="monospace" font-size="15" fill="#6C786F">03 / Strategy</text>
+  <g stroke="#3D6B4E" stroke-width="6" stroke-linecap="round" fill="none">
+    <line x1="112" y1="140" x2="112" y2="90"/>
+    <line x1="148" y1="140" x2="148" y2="60"/>
+    <line x1="184" y1="140" x2="184" y2="100"/>
+    <line x1="220" y1="140" x2="220" y2="46"/>
+    <path d="M 112 90 L 148 60 L 184 100 L 220 46" opacity="0.55" stroke-width="3"/>
+    <circle cx="220" cy="46" r="6" fill="#3D6B4E" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220">
+  <rect width="320" height="220" fill="#E3EEE1"/>
+  <rect x="1" y="1" width="318" height="218" fill="none" stroke="rgba(34,43,37,0.10)" stroke-width="2"/>
+  <text x="24" y="196" font-family="monospace" font-size="15" fill="#6C786F">01 / Community</text>
+  <g transform="translate(160,96)" fill="none" stroke="#3D6B4E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M -70 -30 h 90 a 14 14 0 0 1 14 14 v 32 a 14 14 0 0 1 -14 14 h -58 l -22 20 v -20 h -10 a 14 14 0 0 1 -14 -14 v -32 a 14 14 0 0 1 14 -14 z"/>
+    <path d="M 30 -10 h 60 a 12 12 0 0 1 12 12 v 26 a 12 12 0 0 1 -12 12 h -8 v 16 l -18 -16 h -34 a 12 12 0 0 1 -12 -12 v -26 a 12 12 0 0 1 12 -12 z" opacity="0.55"/>
+  </g>
+</svg>

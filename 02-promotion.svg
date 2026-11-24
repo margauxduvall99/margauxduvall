@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220">
+  <rect width="320" height="220" fill="#E3EEE1"/>
+  <rect x="1" y="1" width="318" height="218" fill="none" stroke="rgba(34,43,37,0.10)" stroke-width="2"/>
+  <text x="24" y="196" font-family="monospace" font-size="15" fill="#6C786F">02 / Promotion</text>
+  <g transform="translate(160,100)" fill="none" stroke="#3D6B4E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M -70 -8 v 16 l 34 12 v -40 z"/>
+    <path d="M -36 -20 l 70 -26 v 92 l -70 -26 z"/>
+    <path d="M -36 8 l -6 30 a 8 8 0 0 0 8 10 h 6 a 8 8 0 0 0 8 -9 l -4 -25"/>
+    <path d="M 44 -30 a 46 46 0 0 1 0 60" opacity="0.6"/>
+  </g>
+</svg>
